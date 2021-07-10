@@ -1,0 +1,9 @@
+.homepage {
+    height: 100vh;
+    scroll-behavior: smooth;
+    background: url('https://images-ext-1.discordapp.net/external/XHzIn_nKSLPLjJuOqEcqghtZTJc0gH25KTAIarcFeJA/https/png.pngtree.com/thumb_back/fw800/back_our/20190619/ourmid/pngtree-taobao-vector-creative-technology-online-shopping-illustration-computer-finger-poster-image_131803.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
